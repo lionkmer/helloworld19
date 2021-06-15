@@ -4,4 +4,5 @@
 <h1> Good job Lionel on learning Devops</h1>
 <h1> You are on the path to get that six figures job <h1>
 <h1> Keep working hard and never give up on your dream <h1>
-<h1> I can't wait to make $$$$$$ doing this <h1>
+<h1> I can't wait to make $$$$$$ doing this <h1> 
+<h1> I am improving my IT skills every day so that I can be competitive <h1>
